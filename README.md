@@ -11,7 +11,7 @@ Ich bin erreichbar unter:
 ![Known languages](https://skillicons.dev/icons?i=python,typescript,js,html,css,cs,bash&perline=10)
 
 ## Technik die ich benutze
-![Using](https://skillicons.dev/icons?i=linux,vscode,idea,github,git,gradle,vercel,postgres,sqlite,ps&perline=10)
+![Using](https://skillicons.dev/icons?i=linux,vscode,idea,github,git,vercel,sqlite&perline=10)
 
 
 
