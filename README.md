@@ -8,7 +8,7 @@ Ich bin erreichbar unter:
 
 
 ## Programmiersprachen die ich benutze
-![Known languages](https://skillicons.dev/icons?i=python,typescript,js,html,css,cs,bash&perline=10)
+![Known languages](https://skillicons.dev/icons?i=python,typescript,js,html,css&perline=10)
 
 ## Technik die ich benutze
 ![Using](https://skillicons.dev/icons?i=linux,vscode,idea,github,git,vercel,sqlite&perline=10)
