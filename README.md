@@ -1,4 +1,4 @@
-#Hallo
+##Hallo
 
 Ich Bin ein kleiner Programmierer, der Spaß daran hat, kleine Dinge zu erstellen
 
@@ -16,9 +16,9 @@ Kontakt is verfügbar unter:
 
 
 ## Meine Statistiken
-[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api?username=Arthur-Ditte)]
+[GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api?username=Arthur-Ditte)
 
-[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/top-langs/api?username=Arthur-Ditte)]
+[GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/top-langs/api?username=Arthur-Ditte)
 
 [![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api/wakatime?username=Arthur-Ditte)]
 
