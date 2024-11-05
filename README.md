@@ -1,16 +1,24 @@
-## Hi there 👋
+#Hallo
 
-<!--
-**Arthur-Ditte/Arthur-Ditte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich Bin ein kleiner Programmierer, der Spaß daran hat, kleine Dinge zu erstellen
 
-Here are some ideas to get you started:
+Kontakt is verfügbar unter: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- email: arthurditte11@gmail.com
+
+
+## Programmiersprachen die ich benutze
+![Known languages](https://skillicons.dev/icons?i=python,typescript,js,html,css,cs,bash&perline=10)
+
+## Technik die ich benutze
+![Using](https://skillicons.dev/icons?i=linux,vscode,idea,github,git,gradle,vercel,postgres,sqlite,ps&perline=10)
+
+
+
+## Meine Statistiken
+[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api?username=Arthur-Ditte)]
+
+[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/top-langs/api?username=Arthur-Ditte)]
+
+[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api/wakatime?username=Arthur-Ditte)]
+
