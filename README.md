@@ -18,7 +18,6 @@ Ich bin erreichbar unter:
 ## Meine Statistiken
 
 ![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api?username=Arthur-Ditte&show_icons=true&theme=tokyonight)
-
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Ditte&layout=compact&show_icons=true&theme=tokyonight)
 
 
