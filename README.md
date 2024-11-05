@@ -1,8 +1,8 @@
-##Hallo
+## Hallo
 
 Ich Bin ein kleiner Programmierer, der Spaß daran hat, kleine Dinge zu erstellen
 
-Kontakt is verfügbar unter: 
+Ich bin erreichbar unter: 
 
 - email: arthurditte11@gmail.com
 
@@ -16,9 +16,6 @@ Kontakt is verfügbar unter:
 
 
 ## Meine Statistiken
-[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api?username=RestytheCake)]
+[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api?username=RestytheCake)](https://github.com/Arthur-Ditte)
 
-[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/top-langs/api?username=RestytheCake)]
-
-[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api/wakatime?username=RestytheCake)]
 
