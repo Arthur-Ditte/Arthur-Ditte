@@ -16,9 +16,9 @@ Kontakt is verfügbar unter:
 
 
 ## Meine Statistiken
-[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api?username=Arthur-Ditte)]
+[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api?username=RestytheCake)]
 
-[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/top-langs/api?username=Arthur-Ditte)]
+[![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/top-langs/api?username=RestytheCake)]
 
 [![GitHub Stats von Arthur Ditte](https://github-readme-stats.vercel.app/api/wakatime?username=RestytheCake)]
 
